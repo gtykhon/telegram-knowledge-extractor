@@ -1,5 +1,7 @@
 # Telegram Knowledge Base Extractor
 
+
+**[Read the full engineering write-up on LinkedIn →](https://www.linkedin.com/in/grygorii-t/recent-activity/all/)**
 **Production-grade async pipeline for automated AI summarization of Telegram channels with zero duplicate processing**
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
